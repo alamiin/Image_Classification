@@ -1,5 +1,5 @@
 
-In this repository, I have created three image classifiers. I have used some librearies which is given below. 
+In this repository, I have created three image classifiers. I have used some libraries which is given below. 
 <ul>
   <li>OpenCV</li>
   <li>sklearn</li>
